@@ -1,0 +1,35 @@
+#TextCenter{
+    text-align:center;
+    color:#fff;
+    font-weight:bold;
+    font-size:20px;
+}
+ 
+#Enter{
+    float:left;
+    width:512px;
+    height:512px;
+    line-height:512px;
+    border-radius:5%;
+    -moz-border-radius:5%;
+    -webkit-border-radius:5%;
+    background: #999;
+    box-shadow: 0 0 0 5px #fff, 0 0 0 20px #666;
+}
+
+#Space{
+
+	float:left;
+    width:10px;
+    height:10px;
+    line-height:120px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    margin:5px 5px 5px 5px;
+    background: #fff;
+}
+
+div.Row{
+	clear: left;
+}
