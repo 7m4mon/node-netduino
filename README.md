@@ -1,5 +1,7 @@
 Control Servo motors from Node.js and netduino plus.
 
+[![](https://img.youtube.com/vi/H28ZD1Z54Rg/0.jpg)](https://www.youtube.com/watch?v=H28ZD1Z54Rg)
+
 "lxiduino" is a project for Netduino Plus extend from [netmftoolbox](https://netmftoolbox.codeplex.com/).
 * 受け付けるコマンドを増やした。
 * オプションでAuthを回避できるようにした。
